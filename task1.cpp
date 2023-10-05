@@ -8,7 +8,6 @@ using namespace std;
     float add,sub,mult,div,sq;
     cout<<" ------------ SIMPLE CALCULATOR ------------"<<endl<<endl;
     cout<<"ENTER ANY OPERATION OF YOUR CHOICE('+','-','*','/') : "<<endl;
-    //cout<<"1.ADDITION  "<<endl<<"2.SUBSTRACTION"<<endl<<"3.MULTIPLICATION "<<endl<<"4.DIVISION"<<endl;
     cin>>op;
     cout<<"ENTER TWO NUMBER :"<<endl;
     cin>>a;
